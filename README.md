@@ -1,6 +1,6 @@
 # Your-first-interactive-UI
 
- 
+## Hello Toast App
 
 The HelloToast app consists of two Button elements and one TextView. 
 
