@@ -15,6 +15,6 @@ Tapping the second Button increases a "click" counter displayed in the TextView,
 
 Running the app in both  vertical and horizontal orientations.
 
-<img src="screenshots/hellotoast%20challenge.png" width="300" height="550">
+<img src="screenshots/challenge%20gif.gif" width="300" height="550">
 
 <img src="screenshots/hellotoast%20challenge%20land.png" width="500">
