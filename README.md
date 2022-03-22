@@ -1,6 +1,6 @@
 # Your-first-interactive-UI
 
-## Hello Toast App
+## HelloToast Task
 
 The HelloToast app consists of two Button elements and one TextView. 
 
@@ -11,3 +11,10 @@ Tapping the second Button increases a "click" counter displayed in the TextView,
 
 <img src="screenshots/hellotoast%20task.gif" width="250" height="450">
 
+## Coding challenge
+
+Running the app in both  vertical and horizontal orientations.
+
+<img src="screenshots/hellotoast%20challenge.png" width="300" height="550">
+
+<img src="screenshots/hellotoast%20challenge%20land.png" width="500">
